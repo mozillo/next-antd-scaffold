@@ -11,7 +11,7 @@ import '../assets/self-styles.less';
 
 
 class NextApp extends App {
-  
+
   static async getInitialProps ({ Component, ctx }) {
     let pageProps = {};
 
